@@ -17,7 +17,7 @@ spec:
   platform:
     type: Agent
     agent:
-      agentNamespace: devconf-infra
+      agentNamespace: tj-infra
   infraID: {{ .Release.Name }}
   dns:
     baseDomain: rw.com
