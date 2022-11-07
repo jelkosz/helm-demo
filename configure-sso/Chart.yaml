@@ -1,0 +1,6 @@
+apiVersion: v2
+name: trying-sso
+description: Trying to make SSO work on an ocp cluster after install
+type: application
+version: 0.0.1
+appVersion: "0.0.1"
