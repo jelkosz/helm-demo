@@ -3,7 +3,7 @@ entries:
   day2-kafka-template:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-11-07T11:11:08.01202515+01:00"
+    created: "2022-11-07T11:31:02.885232908+01:00"
     description: A Helm chart for Kubernetes
     digest: bc6ecbae1598421addcdb3f52f74d4bb815f0338e6b143960f1f8c4d1214972b
     name: day2-kafka-template
@@ -14,7 +14,17 @@ entries:
   devconf-template:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2022-11-07T11:11:08.012395085+01:00"
+    created: "2022-11-07T11:31:02.885741713+01:00"
+    description: Hypershift cluster template
+    digest: fce2e04a550ba0e4e2e64e351af2ed301164435e0e57f3683cd4b454c99b7169
+    name: devconf-template
+    type: application
+    urls:
+    - devconf-template-0.0.4.tgz
+    version: 0.0.4
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2022-11-07T11:31:02.885603923+01:00"
     description: Hypershift cluster template
     digest: 55d85c6922b8f2dcb70f0033fd20c466bf5266edf5c1efcee227f3852943029a
     name: devconf-template
@@ -24,7 +34,7 @@ entries:
     version: 0.0.3
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2022-11-07T11:11:08.012275633+01:00"
+    created: "2022-11-07T11:31:02.885487168+01:00"
     description: Hypershift cluster template
     digest: c0b39ede0058851deb43930c8458a41c41bfbbb2dc9875c9116ac01efb979ad1
     name: devconf-template
@@ -34,7 +44,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2022-11-07T11:11:08.012155578+01:00"
+    created: "2022-11-07T11:31:02.885366539+01:00"
     description: Hypershift cluster template
     digest: 118f9db697b4059875b9c440487e0e9ec241acf990ec883d28b9050c38faa96a
     name: devconf-template
@@ -45,12 +55,12 @@ entries:
   trying-sso:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2022-11-07T11:11:08.012499035+01:00"
+    created: "2022-11-07T11:31:02.885860669+01:00"
     description: Trying to make SSO work on an ocp cluster after install
-    digest: a1df8358333305a9e76e1bcedc36f5ea98b789810ef02df3e3cb31c7ba2a04fe
+    digest: c76955db3b8617dd19f2bd003bfa716277b59c430115689e74f18fb4f0b67331
     name: trying-sso
     type: application
     urls:
     - trying-sso-0.0.1.tgz
     version: 0.0.1
-generated: "2022-11-07T11:11:08.0118351+01:00"
+generated: "2022-11-07T11:31:02.885031385+01:00"
